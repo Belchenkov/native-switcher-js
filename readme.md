@@ -2,7 +2,8 @@
 
 > Build Native Switcher on vanilla js
 
-### [Demo]()
+### [Demo](http://native-switch-js-ab.surge.sh)
+[![IMAGE ALT TEXT HERE](./uploads/screen.png)](https://nimb.ws/i1M9fB)
 
 ### Get started
 
